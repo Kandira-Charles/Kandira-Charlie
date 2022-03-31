@@ -1,0 +1,55 @@
+#my-name{
+  text-align: center
+}
+
+
+.jj{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 600px
+}
+.jj:hover{transform: scale(1.1);
+}
+#wewe{
+  color:teal;
+  text-align: center;
+}
+
+
+#yoyo{
+  color:teal;
+  text-align: center;
+}
+#wowo{
+  color:orange;
+  text-align: center;
+  list-style-type: none;
+
+}
+#wowo:hover{
+  color:teal;
+}
+#yeye{text-align: center;
+background-color: orange;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+box-shadow: 5px  5px 5px teal;
+display: block;
+border-radius: 5px;
+padding: 10px 20px;
+color: white;
+font-size: 20px
+}
+#yeye:hover{
+  background-color: green
+}
+#my-name{
+  text-align: center;
+  color:orange;
+}
+h1::first-letter{
+  font-size: 200%;
+  color:#teal;
+}
